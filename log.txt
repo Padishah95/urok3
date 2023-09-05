@@ -1,0 +1,28 @@
+= 2023-09-04 02:37:12 INFO ====== WebDriver manager ======
+= 2023-09-04 02:37:13 INFO Get LATEST chromedriver version for google-chrome
+= 2023-09-04 02:37:13 INFO Get LATEST chromedriver version for google-chrome
+= 2023-09-04 02:37:13 INFO There is no [win64] chromedriver "116.0.5845.111" for browser google-chrome "116.0.5845.111" in cache
+= 2023-09-04 02:37:13 INFO Get LATEST chromedriver version for google-chrome
+= 2023-09-04 02:37:14 INFO WebDriver version 116.0.5845.96 selected
+= 2023-09-04 02:37:14 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+= 2023-09-04 02:37:14 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+= 2023-09-04 02:37:14 INFO Driver downloading response is 200
+= 2023-09-04 02:37:18 INFO Get LATEST chromedriver version for google-chrome
+= 2023-09-04 02:37:18 INFO Driver has been saved in cache [C:\Users\Noname\.wdm\drivers\chromedriver\win64\116.0.5845.111]
+= 2023-09-04 02:37:20 INFO Test1 Starting
+= 2023-09-04 02:37:23 INFO Send test to element //*[@id="login"]/div[1]/label/input
+= 2023-09-04 02:37:23 INFO Send test to element //*[@id="login"]/div[2]/label/input
+= 2023-09-04 02:37:23 INFO Click login button
+= 2023-09-04 02:37:24 INFO Found text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+= 2023-09-04 02:37:24 INFO Test2 Starting
+= 2023-09-04 02:37:24 INFO Send ilyalala05 to element //*[@id="login"]/div[1]/label/input
+= 2023-09-04 02:37:24 INFO Send dfabcbcbc5 to element //*[@id="login"]/div[2]/label/input
+= 2023-09-04 02:37:24 INFO Click login button
+= 2023-09-04 02:37:26 INFO Test3 Starting
+= 2023-09-04 02:37:26 INFO Click contact button
+= 2023-09-04 02:37:28 INFO Send ilyalala05 to element //*[@id="contact"]/div[1]/label/input
+= 2023-09-04 02:37:28 INFO Send test@test.ru to element //*[@id="contact"]/div[2]/label/input
+= 2023-09-04 02:37:28 INFO Send РЎРѕР·РґР°РЅ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё to element //*[@id="contact"]/div[3]/label/span/textarea
+= 2023-09-04 02:37:29 INFO Click contact button
+= 2023-09-04 02:37:31 INFO Switch alert
+= 2023-09-04 02:37:31 INFO Form successfully submitted

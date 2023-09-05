@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+implicitly_wait: 3
+username: padishah95
+password: dfabcbcbc5
+test_title: Создан автоматически
+test_description: Создан автоматически
+test_content: Создан автоматически
